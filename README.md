@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Tools used in this project
+
+https://cdnjs.com/libraries/semantic-ui - To use css files
+
+https://github.com/marak/Faker.js/ - To use the avatar image 
+    It should be installed inside the project with the command npm install --save faker
+
