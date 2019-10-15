@@ -10,7 +10,7 @@ const App = () => {
                 </a>
                 <div className="content">
                     <a href="/" className="author">
-                        Sam
+                        Sam Smith
                     </a>
                     <div className="metadata">
                         <span className="date">Today at 6:00PM</span>
