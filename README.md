@@ -74,3 +74,5 @@ https://cdnjs.com/libraries/semantic-ui - To use css files
 https://github.com/marak/Faker.js/ - To use the avatar image 
     It should be installed inside the project with the command npm install --save faker
 
+https://www.draw.io - To draw layouts and diagrams
+
